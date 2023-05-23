@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643718448972",
+    "project_id": "premiere-auctioneers",
+    "storage_bucket": "premiere-auctioneers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643718448972:android:9ab1387a44136e9eaab1e9",
+        "android_client_info": {
+          "package_name": "com.example.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643718448972-8ncvlhk9c5qrjlndgune9i1nsrmn6ok0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWCkNK7xpbhM0zvQGgh1SumWzcpItMeIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643718448972-8ncvlhk9c5qrjlndgune9i1nsrmn6ok0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
